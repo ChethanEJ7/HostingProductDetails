@@ -1,0 +1,17 @@
+
+
+    {
+        "_comment": "Please ensure to have the same artifactId and toolname as in Release manager. Else, release will be broken",
+        "owner": "Chethan2", 
+        "type": "Wedding",
+         "date": "12/03/2021",
+         "album": true,
+         "video": false,
+         "cinematic": false,
+         "drone": false,
+         "estimation": "20000",
+         "venue": "Bangalore",
+         "contact": 9740857984,
+         "alternatecontact": 9902716967
+        }
+        
